@@ -32,8 +32,10 @@ def create():
 
 def go_second_menu():
     print("进入操作界面")
-    choice = int(input("1 存款 2 取款 3 转账 4 查余额 5 查流水"))
-    menu_values[choice]()
+    choice = int(input("1 存款 2 取款 3 转账 4 查余额 5 查流水 0 退回上一级"))
+    while choice!=0:
+        menu_values[choice]()
+    pass
 
 
 def go_save():
