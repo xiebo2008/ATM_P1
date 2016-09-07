@@ -1,1 +1,1 @@
-[{"balance": 600.0, "password": "123", "name": "xiebo"}, {"balance": 0, "password": "123", "name": "bobo"}, {"name": "xiexie", "password": "123", "balance": 300.0}]
+[{"balance": 600.0, "password": "123", "name": "xiebo"}, {"balance": 0, "password": "123", "name": "bobo"}, {"balance": 500.0, "password": "123", "name": "xiexie"}, {"balance": -100.0, "password": "123", "name": "bbb"}]
